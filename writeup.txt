@@ -1,0 +1,2 @@
+None
+I used Naive Bayes, with TfIDF vectorizer
